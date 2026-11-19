@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! SigmaOS-data-validity: data validity model.
 //!
 //! Real implementation: schemas, type checking, and validation.
